@@ -31,7 +31,7 @@ There are a few registry values that can be used for screensaver:
 - Black screen on Windows Vista if running with Aero *(enable a Basic theme manually before running)*
 - Sound stopping on modern Windows *(this is caused by registry corruption)*
 ## 👥 Credits
-- RealMoonrise *(SetWindowDisplayAffinity)*
+- lostbytes *(Modern Windows support using SetWindowDisplayAffinity)*
 - xdq_0 *(suggestion for the name back in September of 2025)*
 ## ⚖ License
 This project uses the **GPL-3.0** license!
