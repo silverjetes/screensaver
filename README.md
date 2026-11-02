@@ -1,5 +1,5 @@
 # screensaver.scr
-My new GDI malware made in C - remake of [quantizer.exe by wipet](https://youtu.be/2oqcYwFcr9k) - displaying GDI effects on your screen using layered windows, and even supporting stereo sound generation!
+My new GDI malware made in C - remake of [quantizer.exe](https://youtu.be/2oqcYwFcr9k) by [wipet](https://github.com/whypet)- displaying GDI effects on your screen using layered windows, and even supporting stereo sound generation!
 ## 🚨 DISCLAIMER 🚨
 **This is malicious software made for educational and entertainment purposes only.**
 
